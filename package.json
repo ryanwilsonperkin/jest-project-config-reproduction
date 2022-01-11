@@ -1,0 +1,11 @@
+{
+  "name": "jest-project-config-reproduction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ryanwilsonperkin/jest-project-config-reproduction.git",
+  "author": "Ryan Wilson-Perkin <ryanwilsonperkin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
